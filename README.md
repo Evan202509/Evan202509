@@ -1,4 +1,3 @@
 - Hi, I'm Nethmi.(Evan202509)
-- I'm 15 years old.
+- I'm 16 years old.
 - I'm currently learning Python.
-- I'm learning PyQt5 these days.
